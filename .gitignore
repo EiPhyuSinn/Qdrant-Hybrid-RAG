@@ -3,3 +3,4 @@ venv/
 documents.json
 .env
 .ipynb_checkpoints/
+qdrant_storage/
